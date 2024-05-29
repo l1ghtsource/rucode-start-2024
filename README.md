@@ -1,1 +1,3 @@
-# rucode-start-2024
+# RuCode Старт 2024 (2 место)
+
+![lb](leaderboard.png)
